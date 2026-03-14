@@ -8,6 +8,8 @@ TagManager:
   - Wall
   - Platform
   - Hangpoint
+  - Coin
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -17,8 +19,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Platforms
+  - GroundChecker
   - 
   - 
   - 
