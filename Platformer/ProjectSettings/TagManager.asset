@@ -21,9 +21,9 @@ TagManager:
   - EnemyArgArea
   - Platforms
   - GroundChecker
-  - 
-  - 
-  - 
+  - EnemyAttackArea
+  - PlayerAttackArea
+  - Enemy
   - 
   - 
   - 
