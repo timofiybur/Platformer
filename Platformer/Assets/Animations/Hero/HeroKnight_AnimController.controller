@@ -319,7 +319,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hurt
-  m_Speed: 1
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -2493851954930128160}
@@ -462,7 +462,7 @@ AnimatorStateMachine:
     m_Position: {x: 430, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5524414605234826487}
-    m_Position: {x: 100, y: -20, z: 0}
+    m_Position: {x: 130, y: -20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8151578739150555090}
     m_Position: {x: 720, y: 210, z: 0}
@@ -471,10 +471,10 @@ AnimatorStateMachine:
     m_Position: {x: 430, y: 250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1455802884847366881}
-    m_Position: {x: -200, y: 60, z: 0}
+    m_Position: {x: -170, y: 30, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -64209548673693267}
-    m_Position: {x: 440, y: -200, z: 0}
+    m_Position: {x: 430, y: -90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1554168080837809587}
     m_Position: {x: 894.5, y: -82, z: 0}
@@ -489,7 +489,7 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 744, y: 108, z: 0}
+  m_AnyStatePosition: {x: 740, y: 110, z: 0}
   m_EntryPosition: {x: 150, y: 240, z: 0}
   m_ExitPosition: {x: 1020, y: 110, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
