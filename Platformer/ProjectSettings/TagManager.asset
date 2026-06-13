@@ -10,6 +10,7 @@ TagManager:
   - Hangpoint
   - Coin
   - Enemy
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -24,7 +25,7 @@ TagManager:
   - EnemyAttackArea
   - PlayerAttackArea
   - Enemy
-  - 
+  - InteractObjects
   - 
   - 
   - 
